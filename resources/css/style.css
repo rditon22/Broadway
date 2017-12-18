@@ -37,3 +37,20 @@ p {
   font-size: 23px;
   color: white;
 }
+
+footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+  display: flex;
+}
+
+footer p {
+  font-size: 11px;
+}
+
+.bottom-nav {
+  color: white;
+  font-weight: bold;
+  font-size: 11px;
+}
